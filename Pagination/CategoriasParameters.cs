@@ -1,0 +1,7 @@
+﻿namespace Catalogo_Api.Pagination;
+
+public class CategoriasParameters:QueryStringParameters
+{
+
+
+}
